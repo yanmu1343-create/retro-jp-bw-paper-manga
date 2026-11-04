@@ -1,0 +1,5 @@
+name: "retro_jp_bw_paper_manga"
+title: "复古日式黑白纸漫"
+description: "当用户想用复古日式黑白纸漫风格画图时，用干净墨线、纸白留白和密集圆点网纹生成黑白插画。"
+category: "Creation"
+include_in_prompt: true
